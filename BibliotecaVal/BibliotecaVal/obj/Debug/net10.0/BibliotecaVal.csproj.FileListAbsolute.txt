@@ -164,3 +164,4 @@ C:\Users\43283413835\Desktop\API aula\Prova-API-2\BibliotecaVal\BibliotecaVal\ob
 C:\Users\43283413835\Desktop\API aula\Prova-API-2\BibliotecaVal\BibliotecaVal\obj\Debug\net10.0\BibliotecaVal.pdb
 C:\Users\43283413835\Desktop\API aula\Prova-API-2\BibliotecaVal\BibliotecaVal\obj\Debug\net10.0\BibliotecaVal.genruntimeconfig.cache
 C:\Users\43283413835\Desktop\API aula\Prova-API-2\BibliotecaVal\BibliotecaVal\obj\Debug\net10.0\ref\BibliotecaVal.dll
+C:\Users\43283413835\Desktop\API aula\Prova-API-2\BibliotecaVal\BibliotecaVal\obj\Debug\net10.0\BibliotecaVal.sourcelink.json

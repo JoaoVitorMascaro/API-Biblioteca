@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace BibliotecaAPI.Models
 {
@@ -13,6 +14,7 @@ namespace BibliotecaAPI.Models
 
         public DateTime? DataDevolucao { get; set; }
 
+        [JsonIgnore]
         public Livro? Livro { get; set; }
     }
 }

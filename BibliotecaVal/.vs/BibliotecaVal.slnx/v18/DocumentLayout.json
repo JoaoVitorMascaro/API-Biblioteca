@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|solutionrelative:bibliotecaval\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8614C855-7EE8-281D-2758-EDDC0CF24065}|BibliotecaVal\\BibliotecaVal.csproj|c:\\users\\43283413835\\desktop\\api aula\\prova-api-2\\bibliotecaval\\bibliotecaval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,50 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Models\\Livro.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Models\\Livro.cs",
               "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Models\\Livro.cs",
               "RelativeToolTip": "BibliotecaVal\\Models\\Livro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T16:22:21.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Repositories\\EmprestimoRepository.cs",
               "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\EmprestimoRepository.cs",
               "RelativeToolTip": "BibliotecaVal\\Repositories\\EmprestimoRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T18:15:04.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\LivroRepository.cs",
-              "RelativeDocumentMoniker": "BibliotecaVal\\Repositories\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\LivroRepository.cs",
-              "RelativeToolTip": "BibliotecaVal\\Repositories\\LivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:14:20.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmprestimoService.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Services\\EmprestimoService.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Services\\EmprestimoService.cs",
@@ -109,64 +96,36 @@
               "RelativeToolTip": "BibliotecaVal\\Services\\EmprestimoService.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:20:35.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T18:20:35.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LivroService.cs",
-              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Services\\LivroService.cs",
-              "RelativeDocumentMoniker": "BibliotecaVal\\Services\\LivroService.cs",
-              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Services\\LivroService.cs",
-              "RelativeToolTip": "BibliotecaVal\\Services\\LivroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:20:24.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmprestimosController.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Controllers\\EmprestimosController.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Controllers\\EmprestimosController.cs",
               "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Controllers\\EmprestimosController.cs",
               "RelativeToolTip": "BibliotecaVal\\Controllers\\EmprestimosController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:59:10.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T17:59:10.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Emprestimo.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Models\\Emprestimo.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Models\\Emprestimo.cs",
               "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Models\\Emprestimo.cs",
               "RelativeToolTip": "BibliotecaVal\\Models\\Emprestimo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T16:33:47.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BibliotecaVal\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "BibliotecaVal\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:41:33.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "BibliotecaVal\\Controllers\\LivrosController.cs",
@@ -174,12 +133,43 @@
               "RelativeToolTip": "BibliotecaVal\\Controllers\\LivrosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:58:10.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-21T17:58:10.751Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "BibliotecaVal\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Services\\LivroService.cs",
+              "RelativeToolTip": "BibliotecaVal\\Services\\LivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:20:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaVal\\Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "BibliotecaVal\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:14:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaVal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\43283413835\\Desktop\\API aula\\Prova-API-2\\BibliotecaVal\\BibliotecaVal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BibliotecaVal\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:41:33.354Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\BibliotecaVal",
+    "\\BibliotecaVal\\BibliotecaVal",
+    "\\BibliotecaVal\\BibliotecaVal\\Controllers",
+    "\\BibliotecaVal\\BibliotecaVal\\Data",
+    "\\BibliotecaVal\\BibliotecaVal\\Models",
+    "\\BibliotecaVal\\BibliotecaVal\\Repositories",
+    "\\BibliotecaVal\\BibliotecaVal\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -7,7 +7,6 @@ namespace BibliotecaAPI.Repositories
     // Responsável por fazer as operações de empréstimos no banco de dados
     public class EmprestimoRepository
     {
-        // Guarda o acesso ao banco através do AppDbContext
         private readonly AppDbContext _context;
 
         public EmprestimoRepository(AppDbContext context)
@@ -18,7 +17,6 @@ namespace BibliotecaAPI.Repositories
         // Busca todos os empréstimos cadastrados
         public async Task<List<Emprestimo>> GetTodosAsync()
         {
-            // Include também traz os dados do livro relacionado ao empréstimo
             return await _context.Emprestimos
                 .Include(e => e.Livro)
                 .ToListAsync();
